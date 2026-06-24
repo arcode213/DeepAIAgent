@@ -1,0 +1,13 @@
+streamlit
+deepagents>=0.6.10
+langchain
+langchain-openai
+langchain-groq
+langchain-google-genai
+langchain-quickjs
+langgraph
+tavily-python
+python-dotenv
+pandas
+openpyxl
+pydantic
